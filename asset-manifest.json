@@ -1,0 +1,42 @@
+{
+  "files": {
+    "contacts-view.css": "/goit-react-hw-07/static/css/contacts-view.26a31db6.chunk.css",
+    "contacts-view.js": "/goit-react-hw-07/static/js/contacts-view.775a9326.chunk.js",
+    "contacts-view.js.map": "/goit-react-hw-07/static/js/contacts-view.775a9326.chunk.js.map",
+    "home-view.js": "/goit-react-hw-07/static/js/home-view.950c2fa2.chunk.js",
+    "home-view.js.map": "/goit-react-hw-07/static/js/home-view.950c2fa2.chunk.js.map",
+    "login-view.css": "/goit-react-hw-07/static/css/login-view.bb5ac94b.chunk.css",
+    "login-view.js": "/goit-react-hw-07/static/js/login-view.68064de1.chunk.js",
+    "login-view.js.map": "/goit-react-hw-07/static/js/login-view.68064de1.chunk.js.map",
+    "main.css": "/goit-react-hw-07/static/css/main.8579faf5.chunk.css",
+    "main.js": "/goit-react-hw-07/static/js/main.829ff83b.chunk.js",
+    "main.js.map": "/goit-react-hw-07/static/js/main.829ff83b.chunk.js.map",
+    "not-found-view.css": "/goit-react-hw-07/static/css/not-found-view.eefbda25.chunk.css",
+    "not-found-view.js": "/goit-react-hw-07/static/js/not-found-view.ef5496ca.chunk.js",
+    "not-found-view.js.map": "/goit-react-hw-07/static/js/not-found-view.ef5496ca.chunk.js.map",
+    "register-view.js": "/goit-react-hw-07/static/js/register-view.a1771bb8.chunk.js",
+    "register-view.js.map": "/goit-react-hw-07/static/js/register-view.a1771bb8.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-07/static/js/runtime-main.a99d0ef8.js",
+    "runtime-main.js.map": "/goit-react-hw-07/static/js/runtime-main.a99d0ef8.js.map",
+    "static/css/7.bc922b9c.chunk.css": "/goit-react-hw-07/static/css/7.bc922b9c.chunk.css",
+    "static/js/7.ab5f6d60.chunk.js": "/goit-react-hw-07/static/js/7.ab5f6d60.chunk.js",
+    "static/js/7.ab5f6d60.chunk.js.map": "/goit-react-hw-07/static/js/7.ab5f6d60.chunk.js.map",
+    "static/js/8.9976b35e.chunk.js": "/goit-react-hw-07/static/js/8.9976b35e.chunk.js",
+    "static/js/8.9976b35e.chunk.js.map": "/goit-react-hw-07/static/js/8.9976b35e.chunk.js.map",
+    "index.html": "/goit-react-hw-07/index.html",
+    "static/css/7.bc922b9c.chunk.css.map": "/goit-react-hw-07/static/css/7.bc922b9c.chunk.css.map",
+    "static/css/contacts-view.26a31db6.chunk.css.map": "/goit-react-hw-07/static/css/contacts-view.26a31db6.chunk.css.map",
+    "static/css/login-view.bb5ac94b.chunk.css.map": "/goit-react-hw-07/static/css/login-view.bb5ac94b.chunk.css.map",
+    "static/css/main.8579faf5.chunk.css.map": "/goit-react-hw-07/static/css/main.8579faf5.chunk.css.map",
+    "static/css/not-found-view.eefbda25.chunk.css.map": "/goit-react-hw-07/static/css/not-found-view.eefbda25.chunk.css.map",
+    "static/js/7.ab5f6d60.chunk.js.LICENSE.txt": "/goit-react-hw-07/static/js/7.ab5f6d60.chunk.js.LICENSE.txt",
+    "static/js/8.9976b35e.chunk.js.LICENSE.txt": "/goit-react-hw-07/static/js/8.9976b35e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a99d0ef8.js",
+    "static/css/7.bc922b9c.chunk.css",
+    "static/js/7.ab5f6d60.chunk.js",
+    "static/css/main.8579faf5.chunk.css",
+    "static/js/main.829ff83b.chunk.js"
+  ]
+}

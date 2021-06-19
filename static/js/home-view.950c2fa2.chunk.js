@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-07"]=this["webpackJsonpgoit-react-hw-07"]||[]).push([[1],{112:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return i}));n(0);var c=n(1),i=function(){return Object(c.jsx)("div",{className:"container",children:Object(c.jsx)("h1",{children:"PhoneBook main page"})})}}}]);
+//# sourceMappingURL=home-view.950c2fa2.chunk.js.map
