@@ -1,0 +1,30 @@
+.wrapper {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-weight: 500;
+  font-size: 35px;
+  color: #ff5900;
+}
+
+.text {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  background: linear-gradient(to right, #ff5900, #ae0bff, #ff5900) 47% 0%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.info {
+  font-size: 20px;
+  color: var(--secondaryTextColor);
+  text-align: center;
+  background: linear-gradient(to right, #ff5900, #ae0bff, #ff5900) 47% 0%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

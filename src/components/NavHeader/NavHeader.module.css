@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 4px solid;
+  border-image: linear-gradient(
+      to right,
+      #833ab4,
+      rgba(224, 191, 2, 0.4),
+      rgba(0, 126, 175, 0.5)
+    )
+    47% 0%;
+}

@@ -1,0 +1,9 @@
+.text {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  background: linear-gradient(to right, #ff5900, #ae0bff, #ff5900) 47% 0%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
